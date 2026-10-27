@@ -18,8 +18,8 @@ El treball se centra en les mesures de seguretat de Google, les sis capes de pro
 
 | Fitxer | Descripció |
 |---|---|
-| `Presentació.md` | Presentació en format PDF per consultar o exposar a classe. |
-| `Tasca.md` | Documentació de l'anàlisi de la seguretat física del datacenter. |
+| `Presentació.md`(Presentació.md)| Presentació en format PDF per consultar o exposar a classe. |
+| `Tasca.md` |(tasca.md) | Documentació de l'anàlisi de la seguretat física del datacenter. |
 
 ## Fonts de consulta
 
