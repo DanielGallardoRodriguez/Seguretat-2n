@@ -2,38 +2,36 @@
 
 ## Descripció
 
-Aquest repositori conté el treball de l'activitat **NF1.AA2: Seguretat a l'entorn físic**, centrada en la seguretat física dels centres de dades (*datacenters*) i en les mesures que es poden aplicar per protegir la sala de servidors d'un centre educatiu.
+Aquesta activitat tracta sobre la seguretat física dels centres de dades (*datacenters*) i les mesures que s'utilitzen per protegir els servidors, els equips informàtics i la informació emmagatzemada.
 
-## Objectius
+El treball se centra en les mesures de seguretat de Google, les sis capes de protecció física i la seva possible aplicació a la sala de servidors d'un centre educatiu.
 
-- Identificar les principals mesures de seguretat física d'un datacenter.
-- Conèixer les sis capes de seguretat física de Google.
-- Entendre la importància del control d'accés, la vigilància i la protecció dels equips.
-- Comparar les mesures de seguretat d'un gran centre de dades amb les necessitats d'una escola.
-- Valorar quines mesures són viables segons el pressupost i els riscos.
+## Contingut
 
-## Contingut del repositori
+- Principals mesures de seguretat física dels centres de dades de Google.
+- Explicació de les sis capes de seguretat física.
+- Comparació entre un datacenter de grans dimensions i la sala de servidors d'una escola.
+- Anàlisi de les mesures que serien viables segons les necessitats i els recursos disponibles.
+- Conclusions sobre la importància de protegir físicament els sistemes informàtics.
+
+## Fitxers
 
 | Fitxer | Descripció |
 |---|---|
-| [`tasca.md`](tasca.md) | Anàlisi de la seguretat física d'un datacenter, explicació de les sis capes i comparació amb la sala de servidors de l'escola. |
+| `Presentació.md` | Presentació en format PDF per consultar o exposar a classe. |
+| `Tasca.md` | Documentació de l'anàlisi de la seguretat física del datacenter. |
 
-## Recursos de consulta
-
-Els recursos utilitzats com a referència per estudiar les mesures de seguretat física són:
+## Fonts de consulta
 
 - [Inside a Google Data Center — YouTube](https://www.youtube.com/watch?v=XZmGGAbHqa0)
 - [Google Data Center Security: 6 Layers Deep — YouTube](https://youtu.be/kd33UVZhnAA?si=NG-8IHZQIPo6x5kN)
 - [Seguretat reforçada — Centres de dades de Google](https://datacenters.google/intl/es_ALL/advancing-security/)
 
-## Conclusions generals
+## Objectiu
 
-La seguretat física és una part important de la protecció dels sistemes informàtics. Mesures com restringir l'accés, vigilar les instal·lacions, controlar la temperatura i protegir el subministrament elèctric ajuden a reduir els riscos.
-
-Les mesures que s'apliquen en un centre de dades de grans dimensions no sempre són necessàries en una escola. Per això, cal adaptar la protecció a les necessitats de les instal·lacions, els recursos disponibles i la importància dels equips i de les dades.
+Entendre com es protegeixen físicament els centres de dades i valorar quines mesures es podrien aplicar a la sala de servidors de l'escola.
 
 ---
 
 **Activitat:** NF1.AA2 — Seguretat a l'entorn físic  
-**Format:** Documentació en Markdown  
-
+**Format:** Presentació PDF i PowerPoint
