@@ -1,0 +1,1 @@
+# Seguretat-2n
