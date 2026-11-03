@@ -19,7 +19,7 @@ L'empresa disposa de quatre ordinadors de sobretaula, una impressora multifunci�
 
 | Fitxer | Descripció |
 |---|---|
-| [`tasca.md`](activitat-sai.md) | Informe tècnic amb l'anàlisi dels dispositius, els càlculs de potència, la comparació dels models i la justificació de la selecció final. |
+| [`tasca.md`](tasca.md) | Informe tècnic amb l'anàlisi dels dispositius, els càlculs de potència, la comparació dels models i la justificació de la selecció final. |
 
 ## Criteris de selecció
 
