@@ -4,10 +4,7 @@
 
 ### Fase 3 · Proposta final
 
-![RPO](https://img.shields.io/badge/RPO-4%20h-orange?style=for-the-badge)
-![RTO](https://img.shields.io/badge/RTO-4%20h-red?style=for-the-badge)
-![Retenció](https://img.shields.io/badge/Retenci%C3%B3-1%20mes%20m%C3%ADnim-blue?style=for-the-badge)
-![Regla](https://img.shields.io/badge/Regla-3--2--1-success?style=for-the-badge)
+**RPO** 4 h · **RTO** 4 h · **Retenció** mínim 1 mes · **Regla** 3-2-1
 
 **Cas:** Muntatges i Serveis Tècnics SL · **Alumne:** Daniel Gallardo Rodríguez
 
@@ -55,16 +52,14 @@ La jornada és de dilluns a divendres, de 8:00 a 18:00. Després de cada còpia 
 ### Un dia laborable de les bases de dades
 
 ```mermaid
-timeline
-    title Còpies de les bases de dades (de dilluns a divendres)
-    08:00 : Inici de la jornada
-    10:00 : Diferencial
-    12:00 : Diferencial
-    14:00 : Diferencial
-    16:00 : Diferencial
-    18:00 : Diferencial : Fi de la jornada
-    21:00 : Completa nocturna
-    22:00 : Incremental de fitxers
+flowchart LR
+    A["8h<br/>Inici de la jornada"] --> B["10h<br/>Diferencial"]
+    B --> C["12h<br/>Diferencial"]
+    C --> D["14h<br/>Diferencial"]
+    D --> E["16h<br/>Diferencial"]
+    E --> F["18h<br/>Diferencial<br/>Fi de la jornada"]
+    F --> G["21h<br/>Completa nocturna"]
+    G --> H["22h<br/>Incremental de fitxers"]
 ```
 
 > [!NOTE]
