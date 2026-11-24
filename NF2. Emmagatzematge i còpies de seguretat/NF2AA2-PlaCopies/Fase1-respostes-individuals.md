@@ -4,10 +4,7 @@
 
 ### Fase 1 · Respostes individuals
 
-![RPO](https://img.shields.io/badge/RPO-4%20h-orange?style=for-the-badge)
-![RTO](https://img.shields.io/badge/RTO-4%20h-red?style=for-the-badge)
-![Retenció](https://img.shields.io/badge/Retenci%C3%B3-1%20mes%20m%C3%ADnim-blue?style=for-the-badge)
-![Regla](https://img.shields.io/badge/Regla-3--2--1-success?style=for-the-badge)
+**RPO** 4 h · **RTO** 4 h · **Retenció** mínim 1 mes · **Regla** 3-2-1
 
 **Cas:** Muntatges i Serveis Tècnics SL · **Alumne:** Daniel Gallardo Rodríguez
 
